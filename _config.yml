@@ -12,7 +12,7 @@ exclude:
 title: 다이브코드
 subtitle: "divecode"
 email: divecode01@gmail.com
-name: 악령, 
+name: 악령, 네
 description: >
   A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,
@@ -75,14 +75,14 @@ social:
     username: TheBenCentra
     url: https://twitter.com/TheBenCentra
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: Facebook
     icon: facebook
     username: thebencentra
     url:
     desc: Friend me on Facebook
-    share: true
+    share: false
 
   - name: GitHub
     icon: github
@@ -96,7 +96,7 @@ social:
     username: Ben Centra
     url: https://www.linkedin.com/pub/ben-centra/47/769/60a
     desc: Connect with me on LinkedIn
-    share: true
+    share: false
 
   - name: Google+
     icon: google-plus
@@ -124,7 +124,7 @@ social:
     username:
     url:
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
@@ -173,7 +173,7 @@ social:
     username:
     url:
     desc: Share to Reddit
-    share: true
+    share: false
 
   - name: "Hacker News"
     icon: hacker-news
