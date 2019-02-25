@@ -53,6 +53,15 @@ descriptions:
 
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
+    
+  - cat: 코드
+    desc: "코드 카테고리는 강좌는 적고, 코드가 많습니다"
+    
+  - cat: 강좌
+    desc: "강좌 카테고리는 여러코드에 대해 강좌를 포스트합니다"
+    
+  - cat: 공지
+    desc: "공지사항이 올라오는 "
 
 # Social icons and sharing options
 #
