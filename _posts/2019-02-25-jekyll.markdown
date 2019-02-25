@@ -3,7 +3,7 @@ layout: post
 title:  "테스트"
 date:   2019-02-25- 17:45:50
 author: 네오라인
-categories: jekyll
+categories: 공지
 ---
 
 ##테스트 
