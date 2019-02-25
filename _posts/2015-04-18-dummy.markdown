@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dummy Post"
+title:  "test PAGE"
 date:   2015-04-18 08:43:59
 author: Ben Centra
 categories: Dummy
