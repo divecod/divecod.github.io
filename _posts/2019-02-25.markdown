@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Aclyung Test"
+date:   2019-02-25- 05:51:00
+author: Aclyung
+categories: Jekyll
+cover: "/assets/instacode.png"
+---
+
+##Test
+Markdown is Lorem ipsum dolor sit amet, 
+consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exerci
+tation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor i
+n reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
