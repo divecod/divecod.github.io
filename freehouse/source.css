@@ -1,0 +1,35 @@
+        @import url(//fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+
+        .nanumgothiccoding * {
+            font-family: 'Nanum Gothic Coding', monospace;
+        }
+
+        @font-face {
+            font-family: 'NIXGONM-Vb';
+            src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/NIXGONM-Vb.woff') format('woff');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        body {
+            margin: 0px;
+        }
+
+        #logo {
+            padding: 1%;
+            text-align: center;
+            width: 100%;
+            background: #003daa;
+            color: white;
+        }
+
+
+        #bb {
+            margin: 2em;
+            font-family: Nanum Gothic Coding;
+        }
+
+        #noti {
+            width: 30%;
+            float: right;
+        }
